@@ -38,7 +38,7 @@ module.exports = {
         externalLinks: [
           {
             name: `Twitter`,
-            url: `https://alcode.club`,
+            url: `https://twitter.com/AvenueCodeClub`,
           },
           {
             name: `Homepage`,
